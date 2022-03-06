@@ -61,10 +61,9 @@ else:
     print(*no_absence, sep='\n')
     print("------------------------------------------------------------------")
     print("People with an above average absence:")
-    while number_ != len(name_list):
-        print(f"Name: {name_list[number_]}")
-        print(f"Days absent: {days_list[number_]}")
-        number_ += 1
+    print("I could not get this working! I tried google and your answers, i "
+          "came close and managed to have it print the least and most days, "
+          "but could not get a working code for this :(")
     print("------------------------------------------------------------------")
     print("Thank you for using our service!")
     print("------------------------------------------------------------------")
